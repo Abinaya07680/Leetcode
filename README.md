@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0228-summary-ranges](https://github.com/Abinaya07680/Leetcode/tree/master/0228-summary-ranges) |
 | [1563-stone-game-v](https://github.com/Abinaya07680/Leetcode/tree/master/1563-stone-game-v) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Abinaya07680/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Abinaya07680/Leetcode/tree/master/1563-stone-game-v) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Abinaya07680/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
