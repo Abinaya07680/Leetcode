@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Abinaya07680/Leetcode/tree/master/0031-next-permutation) |
 | [0228-summary-ranges](https://github.com/Abinaya07680/Leetcode/tree/master/0228-summary-ranges) |
 | [1563-stone-game-v](https://github.com/Abinaya07680/Leetcode/tree/master/1563-stone-game-v) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abinaya07680/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Abinaya07680/Leetcode/tree/master/0176-second-highest-salary) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Abinaya07680/Leetcode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
