@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Abinaya07680/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Abinaya07680/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
